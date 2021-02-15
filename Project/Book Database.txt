@@ -1,0 +1,11 @@
+The New Jim Crow;Michelle Alexander;543;2021;4;
+10X;Grant Cardone;2890;2018;4;
+The Four Winds;Kristin Hannah;1250275;2021;1;
+The Paris Library;Hanet Skeslien Charles;19821;2020;9;
+How to Avoid a Climate Disaster;Bill Gates;385546;2021;0;
+The Choice;Dr. Edith Eva Eger;4231;2017;0;
+Cloud Atlas;David Mitchell;99315;2019;7;
+The Great Influenza;John M. Barry;34256;2017;4;
+Good Economics for Hard Times;Abhijit V. Banerjee and Esther Duflo;23426;2016;15;
+A Gentleman in Moscow;Amor Towles;44215;2019;1;
+Clean Code;Mario Cikalleshi;91521;2015;15;
